@@ -1,0 +1,9 @@
+config:
+  aws:region: eu-north-1
+  basic-infra:db-name: 
+  basic-infra:db-password:
+    secure: 
+  basic-infra:db-username: 
+  basic-infra:project-name: 
+  basic-infra:project-path: /home/username/Documents/basic-infra
+  basic-infra:ssh-key-path: /home/username/.ssh/id_rsa.pub
